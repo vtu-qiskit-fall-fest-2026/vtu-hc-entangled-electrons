@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **Entangled Electrons** · Team ID `VTU-QFF-HC-0161` · Tier `Online`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#Entangled Electrons)
+[⬆ Back to Top](#entangled-electrons)
 
 </div>
